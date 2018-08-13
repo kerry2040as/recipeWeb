@@ -1,0 +1,42 @@
+const data = [
+    {"name":"baked Salmon",
+    "ingredients":[
+        {"name":"salmon","amount":1,"measurement":"l lb"},
+        {"name":"Pine Nuts", "amount":1,"measurement":"cup"},
+        {"name":"Butter Lettuce","amount":2,"measurement":"cups"},
+        {"name":"Yellow Squash","amount":1,"measurement":"med"},
+        {"name":"Olive Oil","amount":0.5,"measurement":"cup"},
+        {"name":"Garlic", "amount":3,"measurement":"cloves"}
+
+    ],
+    "steps":[
+        "Preheat the oven to 350 degrees",
+        "Spread the olive oil around a glass baking dish",
+        "add the salmon, garlic, and pine nuts to the dish.",
+        "bake for 15 minutes",
+        "add the yellow squash and put back in th ovaen for 30 mins",
+        "remove from oven and let cool for 15 mins add the lettuce and serve"
+    ]
+    },
+    {"name":"baked Salmon",
+    "ingredients":[
+        {"name":"salmon","amount":1,"measurement":"l lb"},
+        {"name":"Pine Nuts", "amount":1,"measurement":"cup"},
+        {"name":"Butter Lettuce","amount":2,"measurement":"cups"},
+        {"name":"Yellow Squash","amount":1,"measurement":"med"},
+        {"name":"Olive Oil","amount":0.5,"measurement":"cup"},
+        {"name":"Garlic", "amount":3,"measurement":"cloves"}
+
+    ],
+    "steps":[
+        "Preheat the oven to 350 degrees",
+        "Spread the olive oil around a glass baking dish",
+        "add the salmon, garlic, and pine nuts to the dish.",
+        "bake for 15 minutes",
+        "add the yellow squash and put back in th ovaen for 30 mins",
+        "remove from oven and let cool for 15 mins add the lettuce and serve"
+    ]
+    }
+
+]
+export default data
